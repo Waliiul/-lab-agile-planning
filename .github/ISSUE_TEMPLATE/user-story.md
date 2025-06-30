@@ -1,15 +1,15 @@
 ---
 name: User story
 about: For storing user stories.
-title: ''
+title: 'Need a Service that has a counter'
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** User  
+ **I need** Service that has a counter.  
+ **So that** I can keep track of how many times things has been done.  
    
  ### Details and Assumptions
  * [document what you know]
